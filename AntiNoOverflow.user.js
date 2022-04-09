@@ -3,7 +3,7 @@
 // @namespace    MXPSQL
 // @license      MIT
 // @version      0.1
-// @description  Say goodbye to anti adblockers preventing scrolls. \nWARNING: This will affect all websites and it should be used with uBlock origin with the block element feature.
+// @description  Say goodbye to anti adblockers preventing scrolls. WARNING: This will affect all websites and it should be used with uBlock origin with the block element feature.
 // @author       MXPSQL
 // @match        *://*/*
 // @icon         https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Crystal_source.svg/64px-Crystal_source.svg.png
